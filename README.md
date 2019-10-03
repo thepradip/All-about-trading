@@ -7,5 +7,8 @@
  - [exchange algo trading](https://www.lseg.com/markets-products-and-services/our-markets/london-stock-exchange/equities-markets/trading-services/trading-services-video-resources/exchanging-ideas-artificial-intelligence-trading)
  - [learn algo trading step by step](https://blog.quantinsti.com/learn-algorithmic-trading/)
  - [Trading course](https://www.quantopian.com/tutorials/getting-started)
+ ##  Forex
+ - [Trading Economics](https://tradingeconomics.com/)
+ - [Inventing ](https://in.investing.com/economic-calendar/)
  
  
