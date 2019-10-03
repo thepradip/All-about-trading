@@ -10,5 +10,6 @@
  ##  Forex
  - [Trading Economics](https://tradingeconomics.com/)
  - [Inventing ](https://in.investing.com/economic-calendar/)
+ - [Technical analysis](https://in.investing.com/technical/technical-summary)
  
  
