@@ -8,9 +8,12 @@
  - [learn algo trading step by step](https://blog.quantinsti.com/learn-algorithmic-trading/)
  - [Trading course](https://www.quantopian.com/tutorials/getting-started)
  - [Encoding-financial-texts-into-dense-representations](https://quantdare.com/encoding-financial-texts-into-dense-representations/)
+ - [Geometrical-properties-of-generative-adversarial-networks](https://quantdare.com/geometrical-properties-of-generative-adversarial-networks/)
+ 
  ##  Forex
  - [Trading Economics](https://tradingeconomics.com/)
  - [Inventing ](https://in.investing.com/economic-calendar/)
  - [Technical analysis](https://in.investing.com/technical/technical-summary)
+ - [An-intuition-behind-currency-risk](https://quantdare.com/an-intuition-behind-currency-risk/)
  
  
