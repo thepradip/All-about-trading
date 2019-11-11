@@ -41,4 +41,7 @@
  ## Blogs
  - [Quantdare.com](https://quantdare.com/)
  
+ ## Quantopian Tutorials:
+ - [Getting-started with Quantopian](https://www.quantopian.com/tutorials/getting-started)
+ 
  
